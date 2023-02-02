@@ -23,7 +23,7 @@ namespace Fibonacci_NTerms
                 i++;
             }
             Console.ReadLine();
-         Antha Assaaaaam
+         
         }
     }
 }
