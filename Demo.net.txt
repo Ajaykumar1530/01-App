@@ -22,7 +22,7 @@ namespace Fibonacci_NTerms
                 b = c;
                 i++;
             }
-            Console.ReadLine();
+            Console.Readkey();
          
         }
     }
